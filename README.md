@@ -140,14 +140,6 @@ Edit `css/style.css` (lines 10-17):
 
 ---
 
-## 📸 Screenshots
-
-### Desktop View
-![Homepage Desktop](https://via.placeholder.com/1200x600/0A0A0A/FF3C00?text=Homepage)
-
-### Mobile View
-![Homepage Mobile](https://via.placeholder.com/400x800/0A0A0A/FF3C00?text=Mobile+Responsive)
-
 ### All Pages
 - **Homepage** - Hero, stats, news, sponsors
 - **Team** - Drivers, leadership, engineering
