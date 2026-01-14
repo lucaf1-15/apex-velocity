@@ -79,7 +79,7 @@ apex-velocity-template/
 ### 1. Download
 ```bash
 # Clone from GitHub
-git clone https://github.com/yourusername/apex-velocity.git
+git clone https://github.com/lucaf1-15/apex-velocity.git
 
 # Or download ZIP
 # Extract and open in your code editor
