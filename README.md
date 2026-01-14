@@ -10,7 +10,7 @@
 
 **✨ 100% FREE for personal & commercial use** | ❌ No resale allowed
 
- | [Documentation](CUSTOMIZATION-GUIDE.md) | [License] (LICENSE)
+ | [Documentation](CUSTOMIZATION-GUIDE.md) |
 
 ---
 
